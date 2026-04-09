@@ -1,5 +1,4 @@
-<img align="right" height="200" src=["https://img1.picmix.com/output/pic/normal/3/2/2/8/13038223_5b736.gif"](https://media.tenor.com/iafaiFSZma4AAAAi/tf2-xd-yakel.gif)  />
-
+<img align="right" height="200" src="https://media1.tenor.com/m/KVOg6bJXg7IAAAAd/good-lad-demoflower-it-is.gif"  />
 ###
 
 <h2 align="left">｡𖦹°‧⭑.ᐟ 𝓗𝓮𝓵𝓵𝓸, 𝐠𝐥𝐚𝐝 𝐲𝐨𝐮𝐫 𝐡𝐞𝐫𝐞</h2>
