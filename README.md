@@ -1,7 +1,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="My image">
-  <img src="https://github.com/user-attachments/assets/95f65d5c-ea58-415f-8fe0-3548499a196b" alt="My image" width="2000" height="150">
+  <img src="https://github.com/user-attachments/assets/95f65d5c-ea58-415f-8fe0-3548499a196b" alt="My image" width="2000" height="120">
 </picture>
 
 <h3>｡𖦹°‧⭑.ᐟ 𝓗𝓮𝓵𝓵𝓸, 𝐠𝐥𝐚𝐝 𝐲𝐨𝐮𝐫 𝐡𝐞𝐫𝐞</h3>
