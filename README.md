@@ -1,7 +1,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="My image">
-  <img src="https://github.com/user-attachments/assets/95f65d5c-ea58-415f-8fe0-3548499a196b" alt="My image" width="3072" height="150">
+  <img src="https://github.com/user-attachments/assets/95f65d5c-ea58-415f-8fe0-3548499a196b" alt="My image" width="2000" height="100">
 </picture>
 
 <h3>｡𖦹°‧⭑.ᐟ 𝓗𝓮𝓵𝓵𝓸, 𝐠𝐥𝐚𝐝 𝐲𝐨𝐮𝐫 𝐡𝐞𝐫𝐞</h3>
@@ -76,7 +76,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="My image">
-  <img src="https://github.com/user-attachments/assets/955736e6-0700-4cd3-8b92-8a8b156e1274" alt="My image" width="3072" height="200">
+  <img src="https://github.com/user-attachments/assets/955736e6-0700-4cd3-8b92-8a8b156e1274" alt="My image" width="2000" height="150">
 </picture>
 
 
